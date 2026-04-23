@@ -18,3 +18,6 @@ python izzanalator.py
 
 Made by Izan ,
 tataaa bye bye
+## Preview
+
+![Calculator](preview.png)
